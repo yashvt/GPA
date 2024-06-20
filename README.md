@@ -40,7 +40,7 @@ This is a simple CGPA (Cumulative Grade Point Average) calculator web applicatio
 
 ## Screenshot
 
-![CGPA Calculator Screenshot](screenshot.png)
+![CGPA Calculator Screenshot](i)
 
 ## Contributing
 
@@ -50,11 +50,8 @@ This is a simple CGPA (Cumulative Grade Point Average) calculator web applicatio
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - This project was inspired by the need to easily calculate CGPA for students.
-- Thanks to all the contributors who have helped improve this project.
+
