@@ -40,7 +40,7 @@ This is a simple CGPA (Cumulative Grade Point Average) calculator web applicatio
 
 ## Screenshot
 
-![CGPA Calculator Screenshot](i)
+![CGPA Calculator Screenshot](screenshot.png)
 
 ## Contributing
 
