@@ -20,7 +20,7 @@ This is a simple CGPA (Cumulative Grade Point Average) calculator web applicatio
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/cgpa-calculator.git
+    git clone https://github.com/yashvt/GPA
     ```
 
 2. Open the `index.html` file in your web browser.
